@@ -24,7 +24,7 @@ I’m passionate about crafting **human-centered documentation** that connects c
 ## 🧰 Skills & Tools  
 
 📘 **Structured Documentation**  
-🟩 DITA • Oxygen XML • MadCap Flare • Arbortext • Markdown  
+🟩 DITA • Markdown  
 
 🤖 **AI & Prompt Engineering**  
 🟦 Generative AI • LLM Evaluation • Prompt Design • RCA Analysis • Model Optimization  
