@@ -72,4 +72,7 @@ I’m passionate about crafting **human-centered documentation** that connects c
   <a href="https://medium.com/@roshiniponnarasan">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+   <a href="mailto:roshiniponnarasan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
