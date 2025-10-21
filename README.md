@@ -47,7 +47,7 @@ I’m passionate about crafting **human-centered documentation** that connects c
 ## 📚 My Professional Journey  
 
 🎓 **Curious Beginning:** Started as a content writer and grew into technical writing through a love for clarity and structure.  
-💼 **Technical Writer:** Draft clear and user-focused documentation that simplifies complex information.  
+💼 **Technical Writer:** DraftEd clear and user-focused documentation that simplifies complex information.  
 🤖 **AI Explorer:** Created prompt-based documentation to improve user experience and model accuracy of Generative AI  
 🧩 **Structured Approach:** Use organized, reusable frameworks to make documentation scalable and consistent.  
 💬 **Trainer & Learner:** Enjoy sharing knowledge, learning from peers, and adapting to new tools and technologies.  
